@@ -155,21 +155,6 @@ Allows users to analyze individual cryptocurrencies.
 
 ---
 
-## Project Structure
-
-```text
-automated-data-analytics-pipeline
-
-├── README.md
-
-├── dashboard
-│   └── Crypto_Market_Dashboard.pbix
-
-├── n8n
-│   └── crypto_market_workflow.json
-
-
-
 ---
 
 ## Screenshots
